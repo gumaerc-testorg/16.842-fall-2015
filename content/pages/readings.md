@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 9cf7b8d3-751f-dde5-536f-0351ee594c26
 ---
@@ -46,7 +49,7 @@ INCOSE. _Systems Engineering Handbook: A Guide for System Life Cycle Processes a
 
 [ISO/IEC/IEEE 15288:2015, Systems and Software Engineering—System Life Cycle Processes](http://www.iso.org/iso/catalogue_detail?csnumber=63711).
 
-Feng, W., E. F. Crawley, et al. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Dependency Structure Matrix Modeling for Stakeholder Value Networks." (PDF - 2.3MB)](http://strategic.mit.edu/docs/3_130_DSM_2010-Stakeholder-Networks.pdf) _12th International Dependency and Structure Modeling Conference, DSM'10_ (2010): 22–23.
+Feng, W., E. F. Crawley, et al. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Dependency Structure Matrix Modeling for Stakeholder Value Networks." (PDF - 2.3MB)](http://strategic.mit.edu/docs/3_130_DSM_2010-Stakeholder-Networks.pdf) _12{{< sup "th" >}} International Dependency and Structure Modeling Conference, DSM'10_ (2010): 22–23.
 
 
 {{< tdclose >}}
@@ -178,7 +181,7 @@ Appendix M, p. 311.
 
 Agte, J., O. de Weck, et al. "[MDO: Assessment and Direction for Advancement—An Opinion of One International Group](http://dx.doi.org/10.1007/s00158-009-0381-5)." _Structural and Multidisciplinary Optimization_ 40, no. 17 (2010): 17–33.
 
-Ivanov, Anton, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Concurrent Design Facility at the Space Center EPFL." (PDF - 2.0MB)](http://infoscience.epfl.ch/record/183798/files/CDFEPFL2010paper.pdf) _Proceedings of 4th International Workshop on System & Concurrent Engineering for Space Applications. no. EPFL-CONF-183798. European Space Agency_, 2010.
+Ivanov, Anton, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Concurrent Design Facility at the Space Center EPFL." (PDF - 2.0MB)](http://infoscience.epfl.ch/record/183798/files/CDFEPFL2010paper.pdf) _Proceedings of 4{{< sup "th" >}} International Workshop on System & Concurrent Engineering for Space Applications. no. EPFL-CONF-183798. European Space Agency_, 2010.
 
 
 {{< tdclose >}}
@@ -298,7 +301,7 @@ Lifecycle Management
 
 [ISO/IEC/IEEE 15288:2015, Systems and Software Engineering—System Life Cycle Processes](http://www.iso.org/iso/catalogue_detail?csnumber=63711).
 
-de Weck, O. L., A. Ross, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Investigating Relationships and Semantic Sets amongst System Lifecycle Properties (Ilities)." (PDF)](https://dspace.mit.edu/bitstream/handle/1721.1/102927/esd-wp-2012-12.pdf?sequence=1) _3rd International Engineering Systems Symposium, CESUN_ (2012): 18–20.
+de Weck, O. L., A. Ross, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Investigating Relationships and Semantic Sets amongst System Lifecycle Properties (Ilities)." (PDF)](https://dspace.mit.edu/bitstream/handle/1721.1/102927/esd-wp-2012-12.pdf?sequence=1) _3{{< sup "rd" >}} International Engineering Systems Symposium, CESUN_ (2012): 18–20.
 
 
 {{< tdclose >}}

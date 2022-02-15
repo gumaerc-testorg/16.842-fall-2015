@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-842-fundamentals-of-systems-engineering-fall-2015/6d1ebbe9ac93931527a09c41e2865de7_dv8Dbyfcrd4.pdf
+file: /media/courses/16-842-fundamentals-of-systems-engineering-fall-2015/6d1ebbe9ac93931527a09c41e2865de7_dv8Dbyfcrd4.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 6d1ebbe9-ac93-9315-27a0-9c41e2865de7

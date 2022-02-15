@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-842-fundamentals-of-systems-engineering-fall-2015/80104038c1975a3cbe00823406f9c6f1_J_y2I09rj_I.vtt
+file: /media/courses/16-842-fundamentals-of-systems-engineering-fall-2015/80104038c1975a3cbe00823406f9c6f1_J_y2I09rj_I.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 80104038-c197-5a3c-be00-823406f9c6f1

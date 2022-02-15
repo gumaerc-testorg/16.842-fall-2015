@@ -2,8 +2,13 @@
 content_type: resource
 description: This is a file that contains information regarding fundamentals of systems
   engineering assignment1.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-842-fundamentals-of-systems-engineering-fall-2015/2d24737323418d0227a301459766cfbd_MIT16_842F15_Assignment1.pdf
+file: /media/courses/16-842-fundamentals-of-systems-engineering-fall-2015/2d24737323418d0227a301459766cfbd_MIT16_842F15_Assignment1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 'Fundamentals of Systems Engineering: Team Formation, Definitions, Stakeholders,
   Concept of Operations (CONOPS)'

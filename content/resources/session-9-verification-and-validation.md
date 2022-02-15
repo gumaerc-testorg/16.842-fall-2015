@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Class Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Session 9: Verification and Validation'
 uid: 18c91cd2-5c2f-ad76-3bc7-a80ab75ced08
 video_files:
   archive_url: https://archive.org/download/MIT16.842F15/MIT16_842F15_S09_SPOC_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/16-842-fundamentals-of-systems-engineering-fall-2015/a839664b847a54109a74a52fd50f382c_-63JXElqPaY.vtt
+  video_captions_file: /courses/16-842-fundamentals-of-systems-engineering-fall-2015/a839664b847a54109a74a52fd50f382c_-63JXElqPaY.vtt
   video_thumbnail_file: https://img.youtube.com/vi/-63JXElqPaY/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/16-842-fundamentals-of-systems-engineering-fall-2015/5bceaf7d23a9b72a800c5a976911b0ca_-63JXElqPaY.pdf
+  video_transcript_file: /courses/16-842-fundamentals-of-systems-engineering-fall-2015/5bceaf7d23a9b72a800c5a976911b0ca_-63JXElqPaY.pdf
 video_metadata:
   youtube_id: -63JXElqPaY
 ---
