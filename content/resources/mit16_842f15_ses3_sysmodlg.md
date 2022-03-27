@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 04410431-3f0c-d892-956c-65f848dd2ede
 resourcetype: Document
 title: 'Fundamentals of Systems Engineering: Introduction to Systems Modeling Languages'
 uid: 23fea897-f48d-11f4-5593-fa4be698d749

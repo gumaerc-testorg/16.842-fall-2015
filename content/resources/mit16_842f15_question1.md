@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 04410431-3f0c-d892-956c-65f848dd2ede
 resourcetype: Document
 title: 'Fundamentals of Systems Engineering: Concept Question 1'
 uid: 80d12844-5f7b-13ae-8a8f-2e44eec96bb7

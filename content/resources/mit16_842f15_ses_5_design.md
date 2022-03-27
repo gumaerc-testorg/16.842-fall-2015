@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 04410431-3f0c-d892-956c-65f848dd2ede
 resourcetype: Document
 title: 'Fundamentals of Systems Engineering: Tradespace Exploration and Concept Selection'
 uid: dac225af-f5a8-4125-fd1b-f9364d748221

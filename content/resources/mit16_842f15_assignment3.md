@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e05910ee-9d33-4170-6aa3-011adcee6fe1
 resourcetype: Document
 title: 'Fundamentals of Systems Engineering: System Architecture, Concept Generation'
 uid: cc1c5857-116a-634e-5fdf-dbb6c0178f53
