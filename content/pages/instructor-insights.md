@@ -3,6 +3,7 @@ content_type: page
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
+parent_uid: null
 title: Instructor Insights
 uid: bfeabdb7-8773-04f9-95bf-55d973f7ed00
 ---
@@ -41,16 +42,16 @@ _In the following videos, Professor Olivier de Weck describes various aspects of
 {{< quote "To anchor the class and provide an application that was realistic, but not overly complex, we chose to participate in the 2016 CanSat Competition . . . [It] was very rewarding to see how students ideated their concepts—always keeping in mind the requirements and the end goal." "— Olivier de Weck" >}}
 
 *   [Meet the Educator]({{< baseurl >}}/resources/meet-the-instructor)
-*   [Course Design and Orienting Students with the “V Model”]({{< baseurl >}}/resources/v-model)
-*   [Teaching the Class as a Small Private Online Course (SPOC)]({{< baseurl >}}/resources/teaching-the-class-as-a-spoc)
-*   [Engaging Students in the Design Process through the CanSat Competition]({{< baseurl >}}/resources/engaging-students-in-the-design-process)
-*   [Learning from CanSat Examples]({{< baseurl >}}/resources/learning-from-cansat-examples)
-*   [Ideal Team Size for the CanSat Competition]({{< baseurl >}}/resources/ideal-team-size-for-the-cansat-competition)
-*   [Team Charters]({{< baseurl >}}/resources/team-charters)
-*   [Assessing Student Work Completed as Teams]({{< baseurl >}}/resources/assessing-student-work-completed-as-teams)
-*   [Teaching with Concept Questions]({{< baseurl >}}/resources/teaching-with-concept-questions)
-*   [Online Written and Oral Exams]({{< baseurl >}}/resources/online-written-and-oral-exams)
-*   [Reflective Memos]({{< baseurl >}}/resources/reflective-memos)
+*   {{< resource_link 3a2ac81d-5aca-9c1e-c164-657b5ed8061b "Course Design and Orienting Students with the “V Model”" >}}
+*   {{< resource_link 91a8ced7-a601-d208-51cd-a08f312d00a0 "Teaching the Class as a Small Private Online Course (SPOC)" >}}
+*   {{< resource_link ac30e7a5-142f-5685-2099-bb17f4fd13f3 "Engaging Students in the Design Process through the CanSat Competition" >}}
+*   {{< resource_link 792b03a4-33aa-aa85-2376-c6bf9c8ffe2f "Learning from CanSat Examples" >}}
+*   {{< resource_link 5246a867-1f92-78d7-a588-432d8e696b19 "Ideal Team Size for the CanSat Competition" >}}
+*   {{< resource_link 24e66c32-fcca-9b1f-6fb7-a78344f16ec6 "Team Charters" >}}
+*   {{< resource_link 9f6fd1d0-ea67-3678-afcb-c3d477a04ea5 "Assessing Student Work Completed as Teams" >}}
+*   {{< resource_link 9912d5c6-fe7c-c92a-31ca-6a7aa66c8b30 "Teaching with Concept Questions" >}}
+*   {{< resource_link 8e173265-0943-d27d-17c0-0946748334fe "Online Written and Oral Exams" >}}
+*   {{< resource_link fc74113e-8d5e-69b9-d9cf-31904d9e9745 "Reflective Memos" >}}
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
@@ -71,7 +72,7 @@ The students' grades were based on the following activities:
 
 There were two examinations in this class. The first was a written online quiz in which students showed their understanding of key systems engineering concepts. The exam was administered about two-thirds through the semester once the bulk of the systems engineering theory had been covered. The quiz was open-book and open-internet. There was also a short individual oral examination (20 minutes) at the end of the semester, which took the form of a general discussion about systems engineering fundamentals and its potential future applications.
 
-Prof. de Weck shares strategies for assessing student learning through [online written and oral exams]({{< baseurl >}}/resources/online-written-and-oral-exams) and for [assessing student work completed as teams]({{< baseurl >}}/resources/assessing-student-work-completed-as-teams) in his Instructor Insights videos.
+Prof. de Weck shares strategies for assessing student learning through {{< resource_link 8e173265-0943-d27d-17c0-0946748334fe "online written and oral exams" >}} and for {{< resource_link 9f6fd1d0-ea67-3678-afcb-c3d477a04ea5 "assessing student work completed as teams" >}} in his Instructor Insights videos.
 
 Curriculum Information
 ----------------------
@@ -116,7 +117,7 @@ Lecture
 -------
 
 *   Met 1 time per week for 2 hours per session; 12 sessions total.
-*   Lectures roughly followed the “[V Model]({{< baseurl >}}/resources/v-model)” and presented key ideas and concepts for particular steps of the systems engineering process. During the lectures, the instructor asked concept questions online to check students’ conceptual understanding and to take attendance.
+*   Lectures roughly followed the “{{< resource_link 3a2ac81d-5aca-9c1e-c164-657b5ed8061b "V Model" >}}” and presented key ideas and concepts for particular steps of the systems engineering process. During the lectures, the instructor asked concept questions online to check students’ conceptual understanding and to take attendance.
 *   At the end of the semester, students presented their Preliminary Design Review (PDR) Packages for the 2016 CanSat competition.
 
 Out of Class

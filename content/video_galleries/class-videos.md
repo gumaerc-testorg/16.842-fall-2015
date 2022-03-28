@@ -3,6 +3,7 @@ content_type: video_gallery
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Class Videos
 uid: f94f91b2-7d2b-69ec-a1c5-86571f24a217
 videos:

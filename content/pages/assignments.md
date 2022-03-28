@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments
 uid: e05910ee-9d33-4170-6aa3-011adcee6fe1
 ---
@@ -25,7 +26,7 @@ TOPICS
 A1 (group project)
 {{< tdclose >}}
 {{< tdopen >}}
-[Team Formation, Definitions, Stakeholders, Concept of Operations (CONOPS) (PDF)]({{< baseurl >}}/resources/mit16_842f15_assignment1)
+{{< resource_link 2d247373-2341-8d02-27a3-01459766cfbd "Team Formation, Definitions, Stakeholders, Concept of Operations (CONOPS) (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +35,7 @@ A1 (group project)
 A2 (group project)
 {{< tdclose >}}
 {{< tdopen >}}
-[Requirements Definition and Analysis; Margins Allocation (PDF)]({{< baseurl >}}/resources/mit16_842f15_assignment2)
+{{< resource_link 956bb385-4e6b-6026-84be-cd3bea1f6409 "Requirements Definition and Analysis; Margins Allocation (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +44,7 @@ A2 (group project)
 A3 (group project)
 {{< tdclose >}}
 {{< tdopen >}}
-[System Architecture, Concept Generation (PDF)]({{< baseurl >}}/resources/mit16_842f15_assignment3)
+{{< resource_link cc1c5857-116a-634e-5fdf-dbb6c0178f53 "System Architecture, Concept Generation (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +53,7 @@ A3 (group project)
 A4 (group project)
 {{< tdclose >}}
 {{< tdopen >}}
-[Tradespace Exploration, Concept Selection (PDF)]({{< baseurl >}}/resources/mit16_842f15_assignment4)
+{{< resource_link 6efe133b-add0-4e43-241d-139d90a3054f "Tradespace Exploration, Concept Selection (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +62,7 @@ A4 (group project)
 A5 (group project)
 {{< tdclose >}}
 {{< tdopen >}}
-[Preliminary Design Review (PDR) Package and Presentation (PDF)]({{< baseurl >}}/resources/mit16_842f15_assignment5)
+{{< resource_link 5aa0cf42-6822-3a0a-3a20-2d88b8bf661c "Preliminary Design Review (PDR) Package and Presentation (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}

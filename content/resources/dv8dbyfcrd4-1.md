@@ -5,6 +5,7 @@ file: /media/courses/16-842-fundamentals-of-systems-engineering-fall-2015/6d1ebb
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
+parent_uid: null
 resourcetype: Document
 title: 3play pdf file
 uid: 6d1ebbe9-ac93-9315-27a0-9c41e2865de7
