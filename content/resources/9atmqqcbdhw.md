@@ -1,11 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/16-842-fundamentals-of-systems-engineering-fall-2015/71d6fd25444454f6f6ed0e13aaae61e3_9AtMQqCBdhw.srt
+file: /courses/16-842-fundamentals-of-systems-engineering-fall-2015/71d6fd25444454f6f6ed0e13aaae61e3_9AtMQqCBdhw.srt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile
-parent_uid: null
 resourcetype: Other
 title: 3play caption file
 uid: 71d6fd25-4444-54f6-f6ed-0e13aaae61e3

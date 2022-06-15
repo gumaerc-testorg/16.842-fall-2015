@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a file that contains information regarding fundamentals of systems
   engineering assignment1.
-file: /media/courses/16-842-fundamentals-of-systems-engineering-fall-2015/2d24737323418d0227a301459766cfbd_MIT16_842F15_Assignment1.pdf
+file: /courses/16-842-fundamentals-of-systems-engineering-fall-2015/2d24737323418d0227a301459766cfbd_MIT16_842F15_Assignment1.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -15,3 +15,5 @@ title: 'Fundamentals of Systems Engineering: Team Formation, Definitions, Stakeh
   Concept of Operations (CONOPS)'
 uid: 2d247373-2341-8d02-27a3-01459766cfbd
 ---
+This is a file that contains information regarding fundamentals of systems engineering assignment1.
+

@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: This section provides information on the motivation for the course, meeting
+  times, learning objectives, the textbook, class format, grading, and assignments.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus
 uid: 2ae644ba-0682-5588-54b4-6e443f9445ea
 ---

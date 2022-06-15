@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,10 +9,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Class Videos
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 4: System Architecture and Concept Generation'
 uid: 4a148525-ad11-36a2-418b-3e2ee95903d5
 video_files:
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** This lecture focused on the phase of system architecture and concept generation in a design process and introduced different methods and tools.
 
 **Instructor:** Olivier de Weck
+
+
+

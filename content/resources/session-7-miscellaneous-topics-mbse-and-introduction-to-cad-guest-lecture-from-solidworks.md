@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,10 +9,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Class Videos
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 7: Miscellaneous Topics - MBSE and Introduction to CAD (Guest Lecture
   from Solidworks)'
 uid: 3fcf152b-5867-a483-7d6e-0f7de78eaba6
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, students had interactive discussion with [INCOSE](http://www.incose.org/) Board of Directors.
 
 **Instructor:** Olivier de Weck
+
+
+

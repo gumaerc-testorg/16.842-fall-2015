@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,10 +9,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Class Videos
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 8: Systems Integration and Interface Management'
 uid: 936aa8a4-2f28-ed2a-fd5c-05808e1c10bf
 video_files:
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Interface management is the primary focus and students learned various approaches to conduct interface management for system integration.
 
 **Instructor:** Olivier de Weck
+
+
+
