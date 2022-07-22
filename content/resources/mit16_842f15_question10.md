@@ -5,6 +5,7 @@ file: /courses/16-842-fundamentals-of-systems-engineering-fall-2015/a858447a4be4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Fundamentals of Systems Engineering: Concept Question 10'
 uid: a858447a-4be4-3951-abb2-caa1f2973ba8
 ---
 This resource contains information regarding concept question 10.
-

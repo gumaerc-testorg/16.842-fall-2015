@@ -6,6 +6,7 @@ file: /courses/16-842-fundamentals-of-systems-engineering-fall-2015/3aaea35943c6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Fundamentals of Systems Engineering: Systems Integration and Interface M
 uid: 3aaea359-43c6-c001-92c7-765c866c107e
 ---
 This resource contains information regarding systems integration and interface management. 
-

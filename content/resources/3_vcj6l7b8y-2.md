@@ -4,6 +4,7 @@ description: ''
 file: /courses/16-842-fundamentals-of-systems-engineering-fall-2015/d58b2c05fdd15c5f8161ec8654f57596_3_vcJ6l7b8Y.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

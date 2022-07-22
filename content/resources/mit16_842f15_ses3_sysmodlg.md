@@ -6,6 +6,7 @@ file: /courses/16-842-fundamentals-of-systems-engineering-fall-2015/23fea897f48d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Fundamentals of Systems Engineering: Introduction to Systems Modeling La
 uid: 23fea897-f48d-11f4-5593-fa4be698d749
 ---
 This resource contains information regarding introduction to systems modeling languages.
-

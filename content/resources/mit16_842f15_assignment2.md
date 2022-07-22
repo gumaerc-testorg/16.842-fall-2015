@@ -6,6 +6,7 @@ file: /courses/16-842-fundamentals-of-systems-engineering-fall-2015/956bb3854e6b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Fundamentals of Systems Engineering: Requirements Definition and Analysi
 uid: 956bb385-4e6b-6026-84be-cd3bea1f6409
 ---
 This is a file that contains information regarding fundamentals of systems engineering assignment2.
-

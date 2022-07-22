@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** The focus of this lecture is design verification and validation. Other concepts including design tesing and technical risk management and flight readiness review are also introduced.
 
 **Instructor:** Olivier de Weck
-
-
 

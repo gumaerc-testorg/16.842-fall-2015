@@ -4,6 +4,7 @@ description: ''
 file: /courses/16-842-fundamentals-of-systems-engineering-fall-2015/a1dcd55417ee68460f5fdcfc53575745_MOdNzHR_tck.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file

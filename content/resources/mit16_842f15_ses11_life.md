@@ -5,6 +5,7 @@ file: /courses/16-842-fundamentals-of-systems-engineering-fall-2015/aabb2ec5eff5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Fundamentals of Systems Engineering: Lifecycle Management'
 uid: aabb2ec5-eff5-2c21-0fde-69e5d5cbdf07
 ---
 This resource contains information regarding verification and validation.
-

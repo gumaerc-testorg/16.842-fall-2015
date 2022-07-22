@@ -5,6 +5,7 @@ file: /courses/16-842-fundamentals-of-systems-engineering-fall-2015/cabeb49a7bd3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Fundamentals of Systems Engineering: Commissioning and Operations'
 uid: cabeb49a-7bd3-76e7-7cd2-352e238a320c
 ---
 This resource contains information regarding commissioning and operations. 
-

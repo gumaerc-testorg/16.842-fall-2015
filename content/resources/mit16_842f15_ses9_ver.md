@@ -5,6 +5,7 @@ file: /courses/16-842-fundamentals-of-systems-engineering-fall-2015/5a7dcfe333cb
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Fundamentals of Systems Engineering: Verification and Validation'
 uid: 5a7dcfe3-33cb-eab4-df8d-8a34c38b57cc
 ---
 This resource contains information regarding verification and validation.
-

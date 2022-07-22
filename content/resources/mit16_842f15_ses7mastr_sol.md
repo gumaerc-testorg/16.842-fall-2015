@@ -6,6 +6,7 @@ file: /courses/16-842-fundamentals-of-systems-engineering-fall-2015/9f7cb8a512bf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Fundamentals of Systems Engineering: MBSE and Introduction to CAD (Guest
 uid: 9f7cb8a5-12bf-bc39-dcbb-d6142d1edcad
 ---
 This resource contains information regarding MBSE and introduction to CAD (Guest lecture from solidworks).
-

@@ -6,6 +6,7 @@ file: /courses/16-842-fundamentals-of-systems-engineering-fall-2015/c735f4557cd1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Fundamentals of Systems Engineering: System Architecture and Concept Gen
 uid: c735f455-7cd1-589e-e862-94668f75b558
 ---
 This resource contains information regarding system architecture and concept generation.
-

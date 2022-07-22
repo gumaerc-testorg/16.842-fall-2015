@@ -5,6 +5,7 @@ file: /courses/16-842-fundamentals-of-systems-engineering-fall-2015/8d4769ced14c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Fundamentals of Systems Engineering: Concept Question 3'
 uid: 8d4769ce-d14c-f715-63f5-93060243e113
 ---
 This resource contains information regarding concept question 3. 
-

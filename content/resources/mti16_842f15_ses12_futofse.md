@@ -5,6 +5,7 @@ file: /courses/16-842-fundamentals-of-systems-engineering-fall-2015/c7ab80e24f73
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Fundamentals of Systems Engineering: Prototyping and Manufacturing'
 uid: c7ab80e2-4f73-b032-c42d-c66146bb5b1b
 ---
 This resource contains information regarding prototyping and manufacturing.
-

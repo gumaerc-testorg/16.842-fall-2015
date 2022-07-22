@@ -6,6 +6,7 @@ file: /courses/16-842-fundamentals-of-systems-engineering-fall-2015/6efe133badd0
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Fundamentals of Systems Engineering: Tradespace Exploration, Concept Sel
 uid: 6efe133b-add0-4e43-241d-139d90a3054f
 ---
 This is a file that contains information regarding fundamentals of systems engineering assignment4.
-

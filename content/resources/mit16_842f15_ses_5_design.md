@@ -6,6 +6,7 @@ file: /courses/16-842-fundamentals-of-systems-engineering-fall-2015/dac225aff5a8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Fundamentals of Systems Engineering: Tradespace Exploration and Concept 
 uid: dac225af-f5a8-4125-fd1b-f9364d748221
 ---
 This resource contains information regarding tradespace exploration and concept selection.
-
