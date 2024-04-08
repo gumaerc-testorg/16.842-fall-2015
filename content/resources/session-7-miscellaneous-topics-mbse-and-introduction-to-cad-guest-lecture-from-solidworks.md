@@ -1,8 +1,15 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
+file_size: '220255692'
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -14,8 +21,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
-title: 'Session 7: Miscellaneous Topics - MBSE and Introduction to CAD (Guest Lecture
-  from Solidworks)'
+title: 'Session 7: Miscellaneous Topics - MBSE and Introduction to CAD'
 uid: 3fcf152b-5867-a483-7d6e-0f7de78eaba6
 video_files:
   archive_url: https://archive.org/download/MIT16.842F15/MIT16_842F15_S07_SPOC_300k.mp4
@@ -25,8 +31,6 @@ video_files:
 video_metadata:
   youtube_id: dv8Dbyfcrd4
 ---
-
-**Description:** In this lecture, students had interactive discussion with [INCOSE](http://www.incose.org/) Board of Directors.
+**Description:** In this lecture, students had interactive discussion with {{% resource_link "38da6808-1e02-4780-adc9-4e7e1556ffd1" "INCOSE" %}} Board of Directors.
 
 **Instructor:** Olivier de Weck
-
