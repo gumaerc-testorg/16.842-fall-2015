@@ -79,7 +79,7 @@ Instructor permission
 
 ### Requirements Satisfied
 
-16.842 can be applied toward a [master’s degree in Aeronautics and Astronautics](https://aeroastro.mit.edu/education/graduate-degrees-requirements/), but is not required.  
+16.842 can be applied toward a {{% resource_link "95360a3c-d3fa-4469-99c4-4f42f4a62d3f" "master’s degree in Aeronautics and Astronautics" %}}, but is not required.  
 
 ### Offered
 
