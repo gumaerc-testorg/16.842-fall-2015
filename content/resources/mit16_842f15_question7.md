@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding concept question 7.
 file: /courses/16-842-fundamentals-of-systems-engineering-fall-2015/e8e6a018a872391ad713aa5080893ebe_MIT16_842F15_Question7.pdf
+file_size: 221762
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/16-842-fundamentals-of-systems-engineering-fall-2015/63783510329c5fa7b7f1e6616c2f6922_Wc0PmAIEUhM.vtt
+file_size: 3784
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
