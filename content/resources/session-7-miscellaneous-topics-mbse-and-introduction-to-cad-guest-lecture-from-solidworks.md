@@ -31,6 +31,6 @@ video_files:
 video_metadata:
   youtube_id: dv8Dbyfcrd4
 ---
-**Description:** In this lecture, students had interactive discussion with {{% resource_link "38da6808-1e02-4780-adc9-4e7e1556ffd1" "INCOSE" %}} Board of Directors.
+**Description:** In this lecture, students had interactive discussion with [INCOSE](http://www.incose.org/) Board of Directors.
 
 **Instructor:** Olivier de Weck
