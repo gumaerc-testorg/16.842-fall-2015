@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding introduction to systems
   modeling languages.
-file: /courses/16-842-fundamentals-of-systems-engineering-fall-2015/23fea897f48d11f45593fa4be698d749_MIT16_842F15_Ses3_sysmodlg.pdf
+file: /ol-ocw-studio-app/courses/16-842-fundamentals-of-systems-engineering-fall-2015/23fea897f48d11f45593fa4be698d749_MIT16_842F15_Ses3_sysmodlg.pdf
 file_size: 3639423
 file_type: application/pdf
 learning_resource_types:

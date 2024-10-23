@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/16-842-fundamentals-of-systems-engineering-fall-2015/fff2db0ade5b7affdbb4afc236b50919_Wc0PmAIEUhM.pdf
+file: /ol-ocw-studio-app/courses/16-842-fundamentals-of-systems-engineering-fall-2015/fff2db0ade5b7affdbb4afc236b50919_Wc0PmAIEUhM.pdf
 file_size: 13299
 file_type: application/pdf
 learning_resource_types: []
