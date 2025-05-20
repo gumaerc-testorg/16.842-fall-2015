@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information regarding MBSE and introduction to
   CAD (Guest lecture from solidworks).
 draft: false
-file: /ol-ocw-studio-app/courses/16-842-fundamentals-of-systems-engineering-fall-2015/9f7cb8a512bfbc39dcbbd6142d1edcad_MIT16_842F15_Ses7Mastr_Sol.pdf
+file: /courses/16-842-fundamentals-of-systems-engineering-fall-2015/9f7cb8a512bfbc39dcbbd6142d1edcad_MIT16_842F15_Ses7Mastr_Sol.pdf
 file_size: 1975348
 file_type: application/pdf
 image_metadata:
