@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding verification and validation.
-file: /ol-ocw-studio-app/courses/16-842-fundamentals-of-systems-engineering-fall-2015/aabb2ec5eff52c210fde69e5d5cbdf07_MIT16_842F15_Ses11_Life.pdf
+file: /courses/16-842-fundamentals-of-systems-engineering-fall-2015/aabb2ec5eff52c210fde69e5d5cbdf07_MIT16_842F15_Ses11_Life.pdf
 file_size: 3996002
 file_type: application/pdf
 learning_resource_types:
