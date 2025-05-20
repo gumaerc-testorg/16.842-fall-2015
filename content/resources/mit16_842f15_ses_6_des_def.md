@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding design definition and multidisciplinary
   optimization.
-file: /ol-ocw-studio-app/courses/16-842-fundamentals-of-systems-engineering-fall-2015/aac65c7bab13281e1265fc753edab4df_MIT16_842F15_Ses_6_Des_Def.pdf
+file: /courses/16-842-fundamentals-of-systems-engineering-fall-2015/aac65c7bab13281e1265fc753edab4df_MIT16_842F15_Ses_6_Des_Def.pdf
 file_size: 2812516
 file_type: application/pdf
 learning_resource_types:
