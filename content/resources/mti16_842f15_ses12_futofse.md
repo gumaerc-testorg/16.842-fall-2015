@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding prototyping and manufacturing.
-file: /courses/16-842-fundamentals-of-systems-engineering-fall-2015/c7ab80e24f73b032c42dc66146bb5b1b_MTI16_842F15_Ses12_FutofSE.pdf
+file: /ol-ocw-studio-app/courses/16-842-fundamentals-of-systems-engineering-fall-2015/c7ab80e24f73b032c42dc66146bb5b1b_MTI16_842F15_Ses12_FutofSE.pdf
 file_size: 2805945
 file_type: application/pdf
 learning_resource_types:
