@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a file that contains information regarding fundamentals of systems
   engineering assignment1.
-file: /courses/16-842-fundamentals-of-systems-engineering-fall-2015/2d24737323418d0227a301459766cfbd_MIT16_842F15_Assignment1.pdf
+file: /ol-ocw-studio-app/courses/16-842-fundamentals-of-systems-engineering-fall-2015/2d24737323418d0227a301459766cfbd_MIT16_842F15_Assignment1.pdf
 file_size: 512832
 file_type: application/pdf
 learning_resource_types:
