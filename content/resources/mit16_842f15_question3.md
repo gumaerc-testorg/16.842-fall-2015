@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information regarding concept question 3. '
-file: /courses/16-842-fundamentals-of-systems-engineering-fall-2015/8d4769ced14cf71563f593060243e113_MIT16_842F15_Question3.pdf
+file: /ol-ocw-studio-app/courses/16-842-fundamentals-of-systems-engineering-fall-2015/8d4769ced14cf71563f593060243e113_MIT16_842F15_Question3.pdf
 file_size: 169380
 file_type: application/pdf
 learning_resource_types:
